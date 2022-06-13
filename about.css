@@ -1,0 +1,574 @@
+
+    @keyframes fadein {
+        0% { opacity: 0; }
+        100% { opacity:  1; }
+      }
+
+    .al{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        height: 1350px;
+
+
+
+    }
+
+    .mainimg{
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 300px;
+
+        justify-content: center;
+        margin-top: 100px;
+    }
+
+    .main1{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 500px;
+        justify-content: flex-start;
+        
+    }
+
+    .main1-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main1-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+    .main2{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 575px;
+        justify-content: flex-start;
+    }
+
+    .main2-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main2-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+    
+
+    .main3{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 650px;
+        justify-content: flex-start;
+    }
+
+    .main3-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main3-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .main4{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 725px;
+        justify-content: flex-start;
+    }
+
+    .main4-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main4-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .main5{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 800px;
+        justify-content: flex-start;
+    }
+
+    .main5-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main5-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .main6{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 875px;
+        justify-content: flex-start;
+    }
+
+    .main6-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main6-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .main7{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 950px;
+        justify-content: flex-start;
+    }
+
+    .main7-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main7-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .main8{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 1025px;
+        justify-content: flex-start;
+    }
+
+    .main8-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main8-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .main9{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 1100px;
+        justify-content: flex-start;
+    }
+
+    .main9-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main9-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .main10{
+        display: flex;
+        position: absolute;
+        width: 800px;
+        height: 100px;
+
+        margin-top: 1175px;
+        justify-content: flex-start;
+    }
+
+    .main10-1{
+        display: flex;
+        font-size: 20px;
+        width: 300px;
+        margin-left: 100px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .main10-2{
+        display: flex;
+        font-size: 20px;
+        width: 800px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+.star{
+width: 1000px;
+    justify-content: center;
+    margin-left: 300px;
+}
+    .star1 img{
+        display: flex;
+        position: absolute;
+        width: 200px;
+        margin-top: 400px;
+        margin-right: 400px;
+
+    }
+
+    .star2 img{
+        display: flex;
+        position: absolute;
+        width: 250px;
+        margin-top: 700px;
+        margin-left: 400px;
+    }
+
+    .star3 img{
+        display: flex;
+        position: absolute;
+        width: 300px;
+        margin-top: 1000px;
+        margin-right: 400px;
+    }
+
+
+
+
+
+
+    
+    *{
+        font-family: 'Noto Sans KR', sans-serif;
+        list-style: none;
+        text-decoration: none;
+
+        margin: 0px;
+        padding: 0px;
+        color: rgb(0, 0, 0);
+    }
+
+    body{
+        position: relative;
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+
+
+    .header{
+        position: fixed;
+        top: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        margin: auto;
+       
+        height: 45px;
+        border-color: black;
+        background-color: rgba(0, 0, 0, 0.8);
+        -webkit-backdrop-filter: blur(12px);
+          backdrop-filter: blur(12px);
+        z-index: 999;
+        border: 1px;
+ 
+
+    }
+    
+    .logo{
+
+        display: flex;
+    align-items: center;
+    max-width: 22px;
+    margin-left: 180px;
+
+    object-fit: cover;
+    }
+    .logo img{
+        width: 100%;
+        height: 100%;
+    }
+
+
+
+
+    .nav{
+    display: flex;
+    justify-content: flex-end;
+    line-height: 86px;
+    width: calc(1280px - 300px);
+
+    margin-right: 155px;
+  
+    
+    }
+
+
+
+    .nav > li {
+    margin-left: 84px;
+    
+
+    
+    }
+
+    .nav li a{
+     color: aliceblue;
+     font-weight:100px;
+     font-size: 12px;
+    }
+
+    .all{
+        position: relative;
+        display: flex;
+    }
+    .left{
+        width: 70%;
+        height: 1080px;
+        display: flex;
+
+    }
+
+    .left h1{
+        width: 1200px;
+        ;
+        margin-top:180px;
+        margin-left: 155px;
+        font-size: 50px;
+    }
+
+    .left p{
+        width: 1000px;
+        margin-top: 50px;
+        margin-left: 155px;
+        font-size: 15px;
+        font-weight: 100;
+        color: rgba(0, 0, 0, 0.7);
+        line-height: 25px;
+
+    }
+
+    .right{
+        width: 50%;
+        height: 1080px;
+
+    }
+    .input{
+        width: 1000px;
+        height: 100px;
+        display: flex;
+        position: absolute;
+        margin-top: 500px;
+        margin-left: 155px;
+        font-size: 20px;
+    }
+
+    .input h5{
+        display: flex;
+        position: absolute;
+        margin-top: 60px;
+        font-size: 15px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .input h6{
+        display: flex;
+        position: absolute;
+        margin-top: 60px;
+        font-size: 15px;
+        margin-left: 360px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+
+    .inputtag{
+        position: absolute;
+        display: flex;
+        margin-top: 90px;
+        
+    }
+
+    .inputtag input{
+        position: absolute;
+        display: flex;
+        width: 250px;
+        height: 40px;
+        border-color: rgb(168, 168, 168);
+        background-color: rgb(248, 248, 248);  
+        border-radius: 7px;      
+    }
+
+
+    
+    .inputtag2{
+        position: absolute;
+        display: flex;
+        margin-top: 90px;
+        margin-left: 360px;
+        
+    }
+
+    .inputtag2 input{
+        position: absolute;
+        display: flex;
+        width: 250px;
+        height: 40px;
+        border-color: rgb(168, 168, 168);
+        border-radius: 7px;
+        background-color: rgb(248, 248, 248);        
+    }
+
+    .input h7{
+        display: flex;
+        position: absolute;
+        margin-top: 170px;
+        font-size: 15px;
+
+        color: rgba(0, 0, 0, 0.7);
+    }
+    .contact h1{
+        display: flex;
+        position: absolute;
+        margin-top: 270px;
+        font-size: 15px;
+        left:-155px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+    
+    .inputtag3 input{
+        position: absolute;
+        display: flex;
+        width: 610px;
+        height: 40px;
+        border-color: rgb(168, 168, 168);
+        border-radius: 7px;
+        background-color: rgb(248, 248, 248);        
+    }
+
+    .inputtag3{
+        position: absolute;
+        display: flex;
+        margin-top: 200px;
+               
+    }
+
+    .inputtag4 input{
+        position: absolute;
+        display: flex;
+        width: 610px;
+        height: 120px;
+        border-color: rgb(168, 168, 168);
+        border-radius: 7px;
+        background-color: rgb(248, 248, 248);        
+    }
+
+    .inputtag4{
+        position: absolute;
+        display: flex;
+        margin-top: 300px;
+               
+    }
+    .star5{
+        position: absolute;
+        display: flex;
+        width: 600px;
+    }
+
+    .star5 img{
+        width: 800px;
+        display: flex;
+        margin-left: 950px;
+        position: absolute;
+        margin-top: 150px;
+        z-index: -2;
+    }
+    
+    .star6 img{
+        width: 600px;
+        display: flex;
+        margin-left: 1050px;
+        position: absolute;
+        margin-top: 250px;
+    }
+
